@@ -1,25 +1,58 @@
-# Roadmap (Conservative)
+# ROADMAP – AIC-For-NPO
 
-This roadmap is deliberately modest and tied to the progress of Parallel TestNet.
+**Last updated:** November 2026  
+**Status:** Early design / documentation  
+**Guiding constraint:** Remain secondary to Parallel TestNet progress and core AIC principles.
 
-## Current phase (now)
+---
 
-- Solidify core documentation
-- Refine principles mapping and eligibility thinking
-- Collect careful feedback from people with non-profit experience
-- Keep scope small
+## Current Phase (November 2026 – mid 2027)
 
-## Next phase (when Parallel TestNet Phase 0 has clearer runnable artifacts)
+**Focus:** Consolidation and clarity
 
-- Design concrete test scenarios based on non-profit decision patterns
-- Prototype minimal tools (e.g., structured decision log format, simple human-gating checklist) that can be exercised on TestNet
-- Document lessons learned
+- [x] Initial documentation and principles mapping
+- [x] Eligibility and boundary statements
+- [x] Basic templates (decision log, human-gating)
+- [ ] Strengthen Do No Harm & Non-Capture language
+- [ ] Publish careful DPG / SDG relevance statement
+- [ ] Improve onboarding clarity for interested NPOs
+- [ ] Keep repository aligned with overall AIC under-claim posture during DPGA review period
 
-## Later
+---
 
-- Only expand if real usage demonstrates value **and** does not compromise Third Path / Zero-donation integrity
-- Consider whether separate light adaptations for NGO contexts are warranted
-- Maintain clear separation from any service or funding role
+## Next Phase (dependent on Parallel TestNet Phase 0 progress)
 
-**Guiding rule:**  
-Progress in this repository should never outrun the integrity of the core AIC project or the maturity of Parallel TestNet.
+**Trigger condition:** Ethical Kernel and basic governance evaluation have clearer runnable artifacts.
+
+Possible work items (not commitments):
+
+- Translate selected governance patterns into testable scenarios on Parallel TestNet
+- Develop minimal, inspectable prototypes (e.g., structured decision log format)
+- Gather limited, good-faith feedback from organizations that have reviewed the materials
+- Re-evaluate whether any additional templates are genuinely useful
+
+---
+
+## Explicit non-goals for the near term
+
+- Turning AIC-For-NPO into a service or consultancy
+- Rapid expansion of features or marketing
+- Claiming DPG certification for this repository alone
+- Building dependency relationships with NPOs
+
+---
+
+## Review principle
+
+Every addition to this repository should be tested against three questions:
+
+1. Does it strengthen or weaken the ability of an organization to remain independent?
+2. Does it keep human judgment central?
+3. Does it stay honest about current limitations?
+
+If the answer to any question is unfavorable, the addition should be delayed or rejected.
+
+---
+
+*Progress in AIC-For-NPO is deliberately paced.  
+The priority is integrity of principles, not speed of adoption.*

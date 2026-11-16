@@ -8,7 +8,8 @@
 
 **Status:** Early design / documentation stage (pre-implementation)  
 **Parent project:** [Adaptive Intelligence Circle](https://github.com/AdaptiveIntelligenceCircle)  
-**Related:** Parallel TestNet (Phase 0 still in progress)
+**Related:** Parallel TestNet (Phase 0 still in progress)  
+**DPGA:** AIC has submitted materials related to Digital Public Goods Alliance review (under review as of November 2026). This repository itself is not a separately certified Digital Public Good.
 
 ---
 
@@ -35,6 +36,21 @@ It is **not** intended to turn AIC into a service provider for NPOs, nor to crea
 | Human Meaning             | Protect spaces where human judgment and meaning-making remain central |
 | Transparency              | Maintain inspectable decision logs and governance artifacts |
 | Under-claim               | Do not over-promise what the tools can do |
+| Do No Harm & Non-Capture  | See dedicated section below |
+
+---
+
+## Do No Harm & Non-Capture
+
+AIC-For-NPO is designed with the following constraints:
+
+- It must not become a vehicle for hidden influence by funders, governments, or commercial entities.
+- It must not encourage NPOs to outsource core ethical or strategic judgment to automated systems.
+- It must not create dependency on AIC as a service provider or legitimacy brand.
+- Any future tools derived from this work should remain inspectable and fail-closed where authorization is involved.
+- Organizations using these ideas remain fully responsible for their own decisions and compliance obligations.
+
+This repository prioritizes **non-capture** and **human responsibility** over convenience or scale.
 
 ---
 
@@ -44,6 +60,7 @@ It is **not** intended to turn AIC into a service provider for NPOs, nor to crea
 - Eligibility considerations (to protect the integrity of Third Path)
 - Lightweight governance adaptation ideas
 - Templates for decision logging and human-gating
+- Notes on relevance to Digital Public Goods and SDGs
 - Notes on how this can later connect to Parallel TestNet
 - Clear boundaries of what this project will **not** do
 
@@ -56,6 +73,7 @@ It is **not** intended to turn AIC into a service provider for NPOs, nor to crea
 - A replacement for existing NPO governance frameworks
 - A way for AIC to accept restricted funding through intermediaries
 - A growth or marketing initiative
+- A certified Digital Public Good in its own right
 
 ---
 
@@ -66,11 +84,17 @@ Until Parallel TestNet Phase 0 has clearer runnable artifacts, this repository r
 
 ---
 
+## Relevance to Digital Public Goods
+
+See [docs/06-dpg-and-sdg-relevance.md](docs/06-dpg-and-sdg-relevance.md) for a careful statement on how this work relates to Digital Public Goods concepts and the Sustainable Development Goals. The statement is intentionally modest.
+
+---
+
 ## License
 
 GNU General Public License v3.0 (see `LICENSE`)
 
-Additional notes on ethical use and non-capture expectations may be added in `supplement_license.md` and related documents.
+Additional notes on ethical use and non-capture expectations may be found in `supplement-license.md` and related documents.
 
 ---
 
@@ -85,4 +109,4 @@ We do not seek rapid expansion or high-volume participation.
 
 **Adaptive Intelligence Circle**  
 Independent ethical coordination infrastructure — from Global South outward.  
-Third Path. Ethical-from-kernel. Under-claim.
+Third Path. Ethical-from-kernel. Under-claim. Non-capture.
